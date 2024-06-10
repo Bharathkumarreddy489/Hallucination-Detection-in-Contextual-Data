@@ -1,4 +1,4 @@
-Hallucination Detection in QA Systems
+# Hallucination Detection in QA Systems
 
 This project focuses on detecting hallucinations in Question-Answering (QA) systems. Hallucinations refer to instances where the system generates an answer that is not supported by the provided context. This repository includes a machine learning pipeline to preprocess the data, train a logistic regression model, tune hyperparameters, and evaluate the model's performance.
 
